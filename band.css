@@ -70,7 +70,7 @@ main {
 #landing-page a:hover {
   transition-delay: 2ms;
   transition-duration: 3s;
-  color: rgb(143, 78, 78);
+  color: gray;
 }
 
 /* Home */
@@ -84,8 +84,8 @@ main {
 }
 
 .headers {
-  background-color: rgba(5, 5, 5, 0.9);
-  color: rgb(238, 213, 181);
+  background-color: black;
+  color: #ffc477;
   text-align: center;
   /* margin-top: 5%; */
   font-family: permanent marker;
@@ -201,7 +201,7 @@ main {
 /* Set List */
 
 #setlist li{
-  background-color: rgba(43, 39, 39, .9);
+  background-color: rgba(43, 39, 39, 1);
   /* margin-top: 1em; */
   color: white;
   font-family: nanum brush script;
